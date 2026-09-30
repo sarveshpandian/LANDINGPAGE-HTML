@@ -1,0 +1,38 @@
+body{
+    background-color: black ;
+}
+.welcome{
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+    background-color: coral;
+    display: block;
+}
+.about{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.ourservice{
+    color: white;
+}
+h3{
+    color: white;
+}
+li{
+    color: white;
+    font-size: 20px;
+}
+.why{
+    color: white;
+}
+.plan{
+    color: white;
+}
+p{
+    color: darkgray;
+}

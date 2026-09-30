@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+.plan{
+    background-color: coral;
+    text-align: center;
+    font-size: 60px;
+    padding: 5px;
+    display: block;
+}
+.one{
+    color: goldenrod;
+    text-align: center;
+}
+li{
+    font-size: 25px;
+}
+.three{
+    color: tomato;
+    text-align: center;
+}
+.before{
+    color: cornflowerblue;
+}

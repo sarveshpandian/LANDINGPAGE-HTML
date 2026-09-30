@@ -1,0 +1,26 @@
+body{
+    color: white;
+    background-color: black;
+}
+.need{
+    background-color: coral;
+    text-align: center;
+    font-size: 60px;
+    padding: 5px;
+    display: block;
+}
+.grey{
+    color: darkgrey;
+    text-align: center;
+}
+i{
+    color: goldenrod;
+}
+.how{
+    color: tomato;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+}    
